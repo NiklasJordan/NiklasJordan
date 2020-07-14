@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Niklas 👋
 
-<!--
-**NiklasJordan/NiklasJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://pbs.twimg.com/profile_banners/52870331/1560783813/1500x500" alt="banner that says Niklas caring about the climate">
 
-Here are some ideas to get you started:
+Here are some points about me:
+- 🌱 I’m currently learning advanced Python programming with data.
+- 👯 I’m looking to collaborate on technology that help humans in crisis situations.
+- 💬 Ask me about natural disasters, Earth sciences, 
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎:
+- Twitter: <a href="https://twitter.com/niklas_jordan">https://twitter.com/niklas_jordan</a> 🦆
+- Personal site: <a href="https://niklasjordan.com/">https://niklasjordan.com/</a> ⛺️
+- Blog: <a href="https://blog.niklasjordan.com/">https://blog.niklasjordan.com/</a> ✏️
+- Pinboard: <a href="https://pinboard.in/u:NiklasJordan">https://pinboard.in/u:NiklasJordan</a> 🔗
+- LinkedIn: <a href="https://www.linkedin.com/in/niklasjordan/">https://www.linkedin.com/in/niklasjordan/</a> 💼

@@ -5,7 +5,7 @@
 Here are some points about me:
 - 🌱 I’m currently learning advanced Python programming with data.
 - 👯 I’m looking to collaborate on technology that help humans in crisis situations.
-- 💬 Ask me about natural disasters, Earth sciences, 
+- 💬 Ask me about Earth sciences and open technology.
 - 😄 Pronouns: he/him
 
 ## Find me around the web 🌎:

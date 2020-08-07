@@ -4,6 +4,7 @@
 
 Here are some points about me:
 - 🌱 I’m currently learning advanced Python programming with data.
+- 🛰 I love to observe the Earth through the eyes of satellites (remote sensing). #sentinerds
 - 👯 I’m looking to collaborate on technology that help humans in crisis situations.
 - 💬 Ask me about Earth sciences and open technology.
 - 😄 Pronouns: he/him

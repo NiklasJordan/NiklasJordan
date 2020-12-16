@@ -11,7 +11,7 @@ Here are some points about me:
 
 ## Find me around the web 🌎:
 - Twitter: <a href="https://twitter.com/niklas_jordan">https://twitter.com/niklas_jordan</a> 🦆
-- Personal site: <a href="https://niklasjordan.com/">https://niklasjordan.com/</a> ⛺️
+- Personal site: <a href="https://niklasjordan.com/">https://www.niklasjordan.com/</a> ⛺️
 - Blog: <a href="https://blog.niklasjordan.com/">https://blog.niklasjordan.com/</a> ✏️
 - Pinboard: <a href="https://pinboard.in/u:NiklasJordan">https://pinboard.in/u:NiklasJordan</a> 🔗
 - LinkedIn: <a href="https://www.linkedin.com/in/niklasjordan/">https://www.linkedin.com/in/niklasjordan/</a> 💼

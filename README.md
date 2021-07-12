@@ -15,6 +15,8 @@ I am passionate about natural hazards, Earth observation, climate, data science,
 - 🗺 Democratizing open data and science to make them accessible to everyone.
 - 👯 Technology that help humans in crisis situations.
 
+Ask me anything in my [AMA](https://github.com/NiklasJordan/ama) repo.
+
 ### Find me around the web 🌎:
 - Personal site: <a href="https://niklasjordan.com/">https://www.niklasjordan.com/</a> ⛺️
 - Twitter: <a href="https://twitter.com/niklas_jordan">https://twitter.com/niklas_jordan</a> 🦆

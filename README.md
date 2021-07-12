@@ -1,15 +1,15 @@
-# Hi there, I'm Niklas 👋
+<img src="https://pbs.twimg.com/profile_banners/52870331/1560783813/1500x500" height="10px" alt="banner that says Niklas caring about the climate">
 
-<img src="https://pbs.twimg.com/profile_banners/52870331/1560783813/1500x500" alt="banner that says Niklas caring about the climate">
+### Hi there, I'm Niklas 👋
 
-Here are some points about me:
-- 👨‍💻 Technologist, with focus on exploring and defending Earth and society.
-- 🔬 Studying Earth Science at The Open University.
-- 🛰 I love to observe the Earth through the eyes of satellites.
-- 🗺 Love to democratize open data to make them accessible to everyone.
-- 👯 I’m looking to collaborate on technology that help humans in crisis situations.
-- 💬 Ask me about Earth sciences and open technology.
-- 😄 Pronouns: he/him
+I am passionate about natural hazards, Earth observation, climate, data science, open data, low-cost technology, human rights & tech ethics. Yep, I have lots of interests. Oh wait, one more thing to know: I love rough weather!
+
+### Ask me about:
+- 👨‍💻 Technology, with focus on exploring and defending Earth and society.
+- 🔬 Earth science (specially natural hazards)
+- 🛰 Observing the Earth with satellites.
+- 🗺 Democratizing open data and science to make them accessible to everyone.
+- 👯 Technology that help humans in crisis situations.
 
 ## Find me around the web 🌎:
 - Twitter: <a href="https://twitter.com/niklas_jordan">https://twitter.com/niklas_jordan</a> 🦆

@@ -2,6 +2,10 @@
 
 ### Hi there, I'm Niklas 👋
 
+I'm a technologist and German-speaking European. I explore different ways to use technology for social and environmental good. I’m doing this professionally since 2008. Actually, I’m helping organisations to use Earth observation technology with environmental impact and human rights in mind.
+
+With [OpenSpaceData →](https://www.openspacedata.org/) I’ve founded an organisation with the mission to democratizing satellite data – through easy to use tools and education, and with [DisasterTech →](https://www.disaster-tech.org/), I’m leading an international community of designers, developers, scientists and engineers to develop tools that help humans in crisis situations.
+
 I am passionate about natural hazards, Earth observation, climate, data science, open data, low-cost technology, human rights & tech ethics. Yep, I have lots of interests. Oh wait, one more thing to know: I love rough weather!
 
 ### Ask me about:

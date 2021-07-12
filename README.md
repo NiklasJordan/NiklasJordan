@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/52870331/1560783813/1500x500" height="10px" alt="banner that says Niklas caring about the climate">
+<img src="https://pbs.twimg.com/profile_banners/52870331/1560783813/1500x500" height="10px" width="100%" alt="banner that says Niklas caring about the climate">
 
 ### Hi there, I'm Niklas 👋
 

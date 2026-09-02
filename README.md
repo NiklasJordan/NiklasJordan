@@ -1,4 +1,4 @@
-<img src="https://showyourstripes.info/stripes/GLOBE---1850-2024-MO.png" height="10px" width="100%" alt="These ‘warming stripe’ graphics are visual representations of the change in temperature as measured in each country over the past 100+ years. Each stripe or bar represents the temperature in that country averaged over a year. This stripes are based on global data from 1850 to 2024 and are created by Ed Hawkins.">
+<img src="https://showyourstripes.info/stripes/GLOBE---1850-2025-MO.png" height="10px" width="100%" alt="These ‘warming stripe’ graphics are visual representations of the change in temperature as measured in each country over the past 100+ years. Each stripe or bar represents the temperature in that country averaged over a year. This stripes are based on global data from 1850 to 2024 and are created by Ed Hawkins.">
 
 ### Hej there, I'm Niklas 👋
 

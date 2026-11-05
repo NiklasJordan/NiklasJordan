@@ -17,7 +17,7 @@ I’m a **Geologist** working on safer communities, based in Denmark 🇩🇰. I
 
 #### 📣 What I believe
 
-Better (flood) risk models alone won't save anyone: **the last mile matters more than the last decimal.** How risk is communicated decides whether people act. Read more in [*Stop Building Better Flood Models*]([https://magazine.floodindustry.com/books/Issue-13-JulyAug2026/](https://risk-and-haz.offprint.app/a/3mozncdvl7k23-stop-building-better-flood-models-why-the-last-mile-matters-more-than-the-last-decimal).
+Better (flood) risk models alone won't save anyone: **the last mile matters more than the last decimal.** How risk is communicated decides whether people act. Read more in [*Stop Building Better Flood Models*](https://risk-and-haz.offprint.app/a/3mozncdvl7k23-stop-building-better-flood-models-why-the-last-mile-matters-more-than-the-last-decimal).
 
 #### 💬 Ask me about
 

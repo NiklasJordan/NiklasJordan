@@ -30,6 +30,5 @@ Ask me anything in my [AMA](https://github.com/NiklasJordan/ama) repo.
 - Personal site: https://www.niklasjordan.com/ ⛺️
 - geofare: https://geofare.dk/ 🧭
 - Bluesky: https://bsky.app/profile/niklasjordan.com 🦋
-- Mastodon: https://niklas.social/@niklas 💭
 - LinkedIn: https://www.linkedin.com/in/niklasjordan/ 💼
 - ORCID: https://orcid.org/0000-0002-0508-6769 🔬
